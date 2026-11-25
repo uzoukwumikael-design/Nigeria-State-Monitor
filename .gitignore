@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+
+# Next.js build output and caches
+.next/
+out/
+
+# test output
+coverage/
+test-results/
+playwright-report/
+blob-report/
+
+# TypeScript incremental build info
+*.tsbuildinfo
+
+# local environment and secrets — never commit these
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# local database state from PGlite experiments
+.pglite/
+*.pglite
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# logs
+*.log
+npm-debug.log*
