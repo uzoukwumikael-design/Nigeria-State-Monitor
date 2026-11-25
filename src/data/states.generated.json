@@ -1,0 +1,853 @@
+[
+  {
+    "id": "NG-AB",
+    "name": "Abia",
+    "iso": "NG-AB",
+    "zone": "south-east",
+    "capital": "Umuahia",
+    "capitalLga": "Umuahia North",
+    "areaKm2": 4817.3,
+    "labelPoint": {
+      "lng": 7.59678,
+      "lat": 5.65693
+    },
+    "bbox": {
+      "minLng": 7.1416,
+      "minLat": 4.8218,
+      "maxLng": 7.9875,
+      "maxLat": 6.0421
+    },
+    "capitalPoint": {
+      "lat": 5.55157,
+      "lng": 7.50807
+    }
+  },
+  {
+    "id": "NG-AD",
+    "name": "Adamawa",
+    "iso": "NG-AD",
+    "zone": "north-east",
+    "capital": "Yola",
+    "capitalLga": "Yola North",
+    "areaKm2": 40105.1,
+    "labelPoint": {
+      "lng": 12.29907,
+      "lat": 9.38394
+    },
+    "bbox": {
+      "minLng": 11.3415,
+      "minLat": 7.3912,
+      "maxLng": 13.7507,
+      "maxLat": 10.9495
+    },
+    "capitalPoint": {
+      "lat": 9.25406,
+      "lng": 12.44763
+    }
+  },
+  {
+    "id": "NG-AK",
+    "name": "Akwa Ibom",
+    "iso": "NG-AK",
+    "zone": "south-south",
+    "capital": "Uyo",
+    "capitalLga": "Uyo",
+    "areaKm2": 6898.9,
+    "labelPoint": {
+      "lng": 7.83914,
+      "lat": 4.84577
+    },
+    "bbox": {
+      "minLng": 7.4603,
+      "minLat": 4.4686,
+      "maxLng": 8.344,
+      "maxLat": 5.5194
+    },
+    "capitalPoint": {
+      "lat": 5.03175,
+      "lng": 7.95284
+    }
+  },
+  {
+    "id": "NG-AN",
+    "name": "Anambra",
+    "iso": "NG-AN",
+    "zone": "south-east",
+    "capital": "Awka",
+    "capitalLga": "Awka South",
+    "areaKm2": 4837.2,
+    "labelPoint": {
+      "lng": 6.97057,
+      "lat": 6.12078
+    },
+    "bbox": {
+      "minLng": 6.6006,
+      "minLat": 5.6816,
+      "maxLng": 7.3391,
+      "maxLat": 6.7534
+    },
+    "capitalPoint": {
+      "lat": 6.19387,
+      "lng": 7.0862
+    }
+  },
+  {
+    "id": "NG-BA",
+    "name": "Bauchi",
+    "iso": "NG-BA",
+    "zone": "north-east",
+    "capital": "Bauchi",
+    "capitalLga": "Bauchi",
+    "areaKm2": 49794.8,
+    "labelPoint": {
+      "lng": 9.82044,
+      "lat": 10.33701
+    },
+    "bbox": {
+      "minLng": 8.7451,
+      "minLat": 9.4473,
+      "maxLng": 11.0085,
+      "maxLat": 12.5325
+    },
+    "capitalPoint": {
+      "lat": 10.16661,
+      "lng": 9.85987
+    }
+  },
+  {
+    "id": "NG-BY",
+    "name": "Bayelsa",
+    "iso": "NG-BY",
+    "zone": "south-south",
+    "capital": "Yenagoa",
+    "capitalLga": "Yenegoa",
+    "areaKm2": 9430.6,
+    "labelPoint": {
+      "lng": 6.0442,
+      "lat": 4.72237
+    },
+    "bbox": {
+      "minLng": 5.3752,
+      "minLat": 4.2702,
+      "maxLng": 6.6072,
+      "maxLat": 5.3806
+    },
+    "capitalPoint": {
+      "lat": 4.97296,
+      "lng": 6.30868
+    }
+  },
+  {
+    "id": "NG-BE",
+    "name": "Benue",
+    "iso": "NG-BE",
+    "zone": "north-central",
+    "capital": "Makurdi",
+    "capitalLga": "Makurdi",
+    "areaKm2": 31012.7,
+    "labelPoint": {
+      "lng": 9.22908,
+      "lat": 7.26256
+    },
+    "bbox": {
+      "minLng": 7.5305,
+      "minLat": 6.4013,
+      "maxLng": 9.8886,
+      "maxLat": 8.1582
+    },
+    "capitalPoint": {
+      "lat": 7.69998,
+      "lng": 8.54392
+    }
+  },
+  {
+    "id": "NG-BO",
+    "name": "Borno",
+    "iso": "NG-BO",
+    "zone": "north-east",
+    "capital": "Maiduguri",
+    "capitalLga": "Maiduguri",
+    "areaKm2": 72434.8,
+    "labelPoint": {
+      "lng": 13.27815,
+      "lat": 11.97338
+    },
+    "bbox": {
+      "minLng": 11.5293,
+      "minLat": 10.0247,
+      "maxLng": 14.678,
+      "maxLat": 13.7214
+    },
+    "capitalPoint": {
+      "lat": 11.83605,
+      "lng": 13.13857
+    }
+  },
+  {
+    "id": "NG-CR",
+    "name": "Cross River",
+    "iso": "NG-CR",
+    "zone": "south-south",
+    "capital": "Calabar",
+    "capitalLga": "Calabar Municipal",
+    "areaKm2": 21087.4,
+    "labelPoint": {
+      "lng": 8.40559,
+      "lat": 5.55975
+    },
+    "bbox": {
+      "minLng": 7.8409,
+      "minLat": 4.6887,
+      "maxLng": 9.4744,
+      "maxLat": 6.8964
+    },
+    "capitalPoint": {
+      "lat": 5.01354,
+      "lng": 8.33162
+    }
+  },
+  {
+    "id": "NG-DE",
+    "name": "Delta",
+    "iso": "NG-DE",
+    "zone": "south-south",
+    "capital": "Asaba",
+    "capitalLga": "Oshimili South",
+    "areaKm2": 17036.1,
+    "labelPoint": {
+      "lng": 6.00588,
+      "lat": 5.45323
+    },
+    "bbox": {
+      "minLng": 4.9768,
+      "minLat": 5.0118,
+      "maxLng": 6.7694,
+      "maxLat": 6.5012
+    },
+    "capitalPoint": {
+      "lat": 6.0468,
+      "lng": 6.65975
+    }
+  },
+  {
+    "id": "NG-EB",
+    "name": "Ebonyi",
+    "iso": "NG-EB",
+    "zone": "south-east",
+    "capital": "Abakaliki",
+    "capitalLga": "Abakaliki",
+    "areaKm2": 6515.1,
+    "labelPoint": {
+      "lng": 8.07419,
+      "lat": 6.28342
+    },
+    "bbox": {
+      "minLng": 7.5035,
+      "minLat": 5.6848,
+      "maxLng": 8.4568,
+      "maxLat": 6.8001
+    },
+    "capitalPoint": {
+      "lat": 6.25221,
+      "lng": 8.24605
+    }
+  },
+  {
+    "id": "NG-ED",
+    "name": "Edo",
+    "iso": "NG-ED",
+    "zone": "south-south",
+    "capital": "Benin City",
+    "capitalLga": "Oredo",
+    "areaKm2": 19643.2,
+    "labelPoint": {
+      "lng": 6.19443,
+      "lat": 6.77327
+    },
+    "bbox": {
+      "minLng": 5.0129,
+      "minLat": 5.7464,
+      "maxLng": 6.7158,
+      "maxLat": 7.5914
+    },
+    "capitalPoint": {
+      "lat": 6.26218,
+      "lng": 5.58682
+    }
+  },
+  {
+    "id": "NG-EK",
+    "name": "Ekiti",
+    "iso": "NG-EK",
+    "zone": "south-west",
+    "capital": "Ado-Ekiti",
+    "capitalLga": "Ado-Ekiti",
+    "areaKm2": 5806.2,
+    "labelPoint": {
+      "lng": 5.21077,
+      "lat": 7.72875
+    },
+    "bbox": {
+      "minLng": 4.8639,
+      "minLat": 7.2832,
+      "maxLng": 5.7916,
+      "maxLat": 8.1112
+    },
+    "capitalPoint": {
+      "lat": 7.61299,
+      "lng": 5.21109
+    }
+  },
+  {
+    "id": "NG-EN",
+    "name": "Enugu",
+    "iso": "NG-EN",
+    "zone": "south-east",
+    "capital": "Enugu",
+    "capitalLga": "Enugu North",
+    "areaKm2": 7658.5,
+    "labelPoint": {
+      "lng": 7.44021,
+      "lat": 6.43669
+    },
+    "bbox": {
+      "minLng": 6.861,
+      "minLat": 5.9246,
+      "maxLng": 7.9034,
+      "maxLat": 7.1016
+    },
+    "capitalPoint": {
+      "lat": 6.44299,
+      "lng": 7.51643
+    }
+  },
+  {
+    "id": "NG-FC",
+    "name": "Federal Capital Territory",
+    "iso": "NG-FC",
+    "zone": "north-central",
+    "capital": "Abuja",
+    "capitalLga": "Municipal Area Council",
+    "areaKm2": 7651.5,
+    "labelPoint": {
+      "lng": 7.12755,
+      "lat": 8.78905
+    },
+    "bbox": {
+      "minLng": 6.78,
+      "minLat": 8.4193,
+      "maxLng": 7.7241,
+      "maxLat": 9.4087
+    },
+    "capitalPoint": {
+      "lat": 8.99462,
+      "lng": 7.47834
+    }
+  },
+  {
+    "id": "NG-GO",
+    "name": "Gombe",
+    "iso": "NG-GO",
+    "zone": "north-east",
+    "capital": "Gombe",
+    "capitalLga": "Gombe",
+    "areaKm2": 16706.6,
+    "labelPoint": {
+      "lng": 11.10932,
+      "lat": 10.72512
+    },
+    "bbox": {
+      "minLng": 10.4943,
+      "minLat": 9.5256,
+      "maxLng": 11.8545,
+      "maxLat": 11.2867
+    },
+    "capitalPoint": {
+      "lat": 10.29025,
+      "lng": 11.17037
+    }
+  },
+  {
+    "id": "NG-IM",
+    "name": "Imo",
+    "iso": "NG-IM",
+    "zone": "south-east",
+    "capital": "Owerri",
+    "capitalLga": "Owerri Municipal",
+    "areaKm2": 5123.9,
+    "labelPoint": {
+      "lng": 7.06724,
+      "lat": 5.53258
+    },
+    "bbox": {
+      "minLng": 6.6391,
+      "minLat": 5.1946,
+      "maxLng": 7.4323,
+      "maxLat": 5.9389
+    },
+    "capitalPoint": {
+      "lat": 5.47679,
+      "lng": 7.02024
+    }
+  },
+  {
+    "id": "NG-JI",
+    "name": "Jigawa",
+    "iso": "NG-JI",
+    "zone": "north-west",
+    "capital": "Dutse",
+    "capitalLga": "Dutse",
+    "areaKm2": 23533.2,
+    "labelPoint": {
+      "lng": 9.60032,
+      "lat": 12.33171
+    },
+    "bbox": {
+      "minLng": 8.1278,
+      "minLat": 10.9422,
+      "maxLng": 10.6056,
+      "maxLat": 13.0148
+    },
+    "capitalPoint": {
+      "lat": 11.80777,
+      "lng": 9.27653
+    }
+  },
+  {
+    "id": "NG-KD",
+    "name": "Kaduna",
+    "iso": "NG-KD",
+    "zone": "north-west",
+    "capital": "Kaduna",
+    "capitalLga": "Kaduna North",
+    "areaKm2": 45243.3,
+    "labelPoint": {
+      "lng": 7.76914,
+      "lat": 10.55925
+    },
+    "bbox": {
+      "minLng": 6.0922,
+      "minLat": 9.0006,
+      "maxLng": 8.8183,
+      "maxLat": 11.524
+    },
+    "capitalPoint": {
+      "lat": 10.55175,
+      "lng": 7.45198
+    }
+  },
+  {
+    "id": "NG-KN",
+    "name": "Kano",
+    "iso": "NG-KN",
+    "zone": "north-west",
+    "capital": "Kano",
+    "capitalLga": "Kano Municipal",
+    "areaKm2": 20309.6,
+    "labelPoint": {
+      "lng": 8.62224,
+      "lat": 11.68132
+    },
+    "bbox": {
+      "minLng": 7.6752,
+      "minLat": 10.5434,
+      "maxLng": 9.3603,
+      "maxLat": 12.6046
+    },
+    "capitalPoint": {
+      "lat": 11.97046,
+      "lng": 8.51403
+    }
+  },
+  {
+    "id": "NG-KT",
+    "name": "Katsina",
+    "iso": "NG-KT",
+    "zone": "north-west",
+    "capital": "Katsina",
+    "capitalLga": "Katsina",
+    "areaKm2": 24328.9,
+    "labelPoint": {
+      "lng": 7.53054,
+      "lat": 12.64349
+    },
+    "bbox": {
+      "minLng": 6.852,
+      "minLat": 11.1288,
+      "maxLng": 9.0473,
+      "maxLat": 13.3523
+    },
+    "capitalPoint": {
+      "lat": 13.00948,
+      "lng": 7.6156
+    }
+  },
+  {
+    "id": "NG-KE",
+    "name": "Kebbi",
+    "iso": "NG-KE",
+    "zone": "north-west",
+    "capital": "Birnin Kebbi",
+    "capitalLga": "Birnin Kebbi",
+    "areaKm2": 37347.3,
+    "labelPoint": {
+      "lng": 4.10005,
+      "lat": 12.11659
+    },
+    "bbox": {
+      "minLng": 3.475,
+      "minLat": 10.1002,
+      "maxLng": 6.2044,
+      "maxLat": 13.2644
+    },
+    "capitalPoint": {
+      "lat": 12.44267,
+      "lng": 4.29223
+    }
+  },
+  {
+    "id": "NG-KO",
+    "name": "Kogi",
+    "iso": "NG-KO",
+    "zone": "north-central",
+    "capital": "Lokoja",
+    "capitalLga": "Lokoja",
+    "areaKm2": 28992.8,
+    "labelPoint": {
+      "lng": 7.09452,
+      "lat": 7.43858
+    },
+    "bbox": {
+      "minLng": 5.3215,
+      "minLat": 6.5579,
+      "maxLng": 7.8026,
+      "maxLat": 8.7388
+    },
+    "capitalPoint": {
+      "lat": 8.0382,
+      "lng": 6.60515
+    }
+  },
+  {
+    "id": "NG-KW",
+    "name": "Kwara",
+    "iso": "NG-KW",
+    "zone": "north-central",
+    "capital": "Ilorin",
+    "capitalLga": "Ilorin West",
+    "areaKm2": 33542.5,
+    "labelPoint": {
+      "lng": 4.87831,
+      "lat": 8.61523
+    },
+    "bbox": {
+      "minLng": 2.743,
+      "minLat": 8.0077,
+      "maxLng": 6.2085,
+      "maxLat": 10.1567
+    },
+    "capitalPoint": {
+      "lat": 8.4582,
+      "lng": 4.51025
+    }
+  },
+  {
+    "id": "NG-LA",
+    "name": "Lagos",
+    "iso": "NG-LA",
+    "zone": "south-west",
+    "capital": "Ikeja",
+    "capitalLga": "Ikeja",
+    "areaKm2": 3778.9,
+    "labelPoint": {
+      "lng": 3.56934,
+      "lat": 6.55232
+    },
+    "bbox": {
+      "minLng": 2.6988,
+      "minLat": 6.3678,
+      "maxLng": 4.3686,
+      "maxLat": 6.7004
+    },
+    "capitalPoint": {
+      "lat": 6.59036,
+      "lng": 3.35745
+    }
+  },
+  {
+    "id": "NG-NA",
+    "name": "Nasarawa",
+    "iso": "NG-NA",
+    "zone": "north-central",
+    "capital": "Lafia",
+    "capitalLga": "Lafia",
+    "areaKm2": 26365.7,
+    "labelPoint": {
+      "lng": 8.0413,
+      "lat": 8.5004
+    },
+    "bbox": {
+      "minLng": 6.9346,
+      "minLat": 7.7662,
+      "maxLng": 9.6175,
+      "maxLat": 9.3293
+    },
+    "capitalPoint": {
+      "lat": 8.60753,
+      "lng": 8.78882
+    }
+  },
+  {
+    "id": "NG-NI",
+    "name": "Niger",
+    "iso": "NG-NI",
+    "zone": "north-central",
+    "capital": "Minna",
+    "capitalLga": "Chanchaga",
+    "areaKm2": 71244.9,
+    "labelPoint": {
+      "lng": 5.59063,
+      "lat": 9.7923
+    },
+    "bbox": {
+      "minLng": 3.5819,
+      "minLat": 8.183,
+      "maxLng": 7.3786,
+      "maxLat": 11.3906
+    },
+    "capitalPoint": {
+      "lat": 9.60007,
+      "lng": 6.53796
+    }
+  },
+  {
+    "id": "NG-OG",
+    "name": "Ogun",
+    "iso": "NG-OG",
+    "zone": "south-west",
+    "capital": "Abeokuta",
+    "capitalLga": "Abeokuta South",
+    "areaKm2": 16806.3,
+    "labelPoint": {
+      "lng": 3.10033,
+      "lat": 7.01893
+    },
+    "bbox": {
+      "minLng": 2.7003,
+      "minLat": 6.2973,
+      "maxLng": 4.6096,
+      "maxLat": 7.9523
+    },
+    "capitalPoint": {
+      "lat": 7.16645,
+      "lng": 3.37332
+    }
+  },
+  {
+    "id": "NG-ON",
+    "name": "Ondo",
+    "iso": "NG-ON",
+    "zone": "south-west",
+    "capital": "Akure",
+    "capitalLga": "Akure South",
+    "areaKm2": 15113.7,
+    "labelPoint": {
+      "lng": 4.89839,
+      "lat": 6.92194
+    },
+    "bbox": {
+      "minLng": 4.3761,
+      "minLat": 5.8877,
+      "maxLng": 6.0041,
+      "maxLat": 7.7502
+    },
+    "capitalPoint": {
+      "lat": 7.21565,
+      "lng": 5.17608
+    }
+  },
+  {
+    "id": "NG-OS",
+    "name": "Osun",
+    "iso": "NG-OS",
+    "zone": "south-west",
+    "capital": "Osogbo",
+    "capitalLga": "Osogbo",
+    "areaKm2": 8579.7,
+    "labelPoint": {
+      "lng": 4.48169,
+      "lat": 7.54098
+    },
+    "bbox": {
+      "minLng": 4.0529,
+      "minLat": 6.9807,
+      "maxLng": 5.0576,
+      "maxLat": 8.0955
+    },
+    "capitalPoint": {
+      "lat": 7.74773,
+      "lng": 4.55434
+    }
+  },
+  {
+    "id": "NG-OY",
+    "name": "Oyo",
+    "iso": "NG-OY",
+    "zone": "south-west",
+    "capital": "Ibadan",
+    "capitalLga": "Ibadan North",
+    "areaKm2": 27823.3,
+    "labelPoint": {
+      "lng": 3.54102,
+      "lat": 8.20703
+    },
+    "bbox": {
+      "minLng": 2.6926,
+      "minLat": 7.0801,
+      "maxLng": 4.569,
+      "maxLat": 9.1883
+    },
+    "capitalPoint": {
+      "lat": 7.42519,
+      "lng": 3.90615
+    }
+  },
+  {
+    "id": "NG-PL",
+    "name": "Plateau",
+    "iso": "NG-PL",
+    "zone": "north-central",
+    "capital": "Jos",
+    "capitalLga": "Jos North",
+    "areaKm2": 26133.8,
+    "labelPoint": {
+      "lng": 9.64399,
+      "lat": 8.94403
+    },
+    "bbox": {
+      "minLng": 8.5536,
+      "minLat": 8.3669,
+      "maxLng": 10.64,
+      "maxLat": 10.3804
+    },
+    "capitalPoint": {
+      "lat": 9.95815,
+      "lng": 8.91183
+    }
+  },
+  {
+    "id": "NG-RI",
+    "name": "Rivers",
+    "iso": "NG-RI",
+    "zone": "south-south",
+    "capital": "Port Harcourt",
+    "capitalLga": "Port-Harcourt",
+    "areaKm2": 10210.8,
+    "labelPoint": {
+      "lng": 6.84431,
+      "lat": 4.92785
+    },
+    "bbox": {
+      "minLng": 6.3984,
+      "minLat": 4.3119,
+      "maxLng": 7.5906,
+      "maxLat": 5.6899
+    },
+    "capitalPoint": {
+      "lat": 4.7867,
+      "lng": 7.01105
+    }
+  },
+  {
+    "id": "NG-SO",
+    "name": "Sokoto",
+    "iso": "NG-SO",
+    "zone": "north-west",
+    "capital": "Sokoto",
+    "capitalLga": "Sokoto North",
+    "areaKm2": 31158.8,
+    "labelPoint": {
+      "lng": 5.23013,
+      "lat": 13.21291
+    },
+    "bbox": {
+      "minLng": 4.1249,
+      "minLat": 11.5303,
+      "maxLng": 6.7928,
+      "maxLat": 13.8857
+    },
+    "capitalPoint": {
+      "lat": 13.06859,
+      "lng": 5.21655
+    }
+  },
+  {
+    "id": "NG-TA",
+    "name": "Taraba",
+    "iso": "NG-TA",
+    "zone": "north-east",
+    "capital": "Jalingo",
+    "capitalLga": "Jalingo",
+    "areaKm2": 59043.7,
+    "labelPoint": {
+      "lng": 10.54639,
+      "lat": 7.9637
+    },
+    "bbox": {
+      "minLng": 9.1157,
+      "minLat": 6.4331,
+      "maxLng": 11.8825,
+      "maxLat": 9.6154
+    },
+    "capitalPoint": {
+      "lat": 8.99653,
+      "lng": 11.27077
+    }
+  },
+  {
+    "id": "NG-YO",
+    "name": "Yobe",
+    "iso": "NG-YO",
+    "zone": "north-east",
+    "capital": "Damaturu",
+    "capitalLga": "Damaturu",
+    "areaKm2": 45927.9,
+    "labelPoint": {
+      "lng": 11.52186,
+      "lat": 12.54874
+    },
+    "bbox": {
+      "minLng": 9.662,
+      "minLat": 10.5676,
+      "maxLng": 12.5039,
+      "maxLat": 13.3891
+    },
+    "capitalPoint": {
+      "lat": 11.81354,
+      "lng": 12.03784
+    }
+  },
+  {
+    "id": "NG-ZA",
+    "name": "Zamfara",
+    "iso": "NG-ZA",
+    "zone": "north-west",
+    "capital": "Gusau",
+    "capitalLga": "Gusau",
+    "areaKm2": 34417.5,
+    "labelPoint": {
+      "lng": 6.40256,
+      "lat": 12.21706
+    },
+    "bbox": {
+      "minLng": 4.8607,
+      "minLat": 10.9635,
+      "maxLng": 7.2466,
+      "maxLat": 13.1825
+    },
+    "capitalPoint": {
+      "lat": 12.07624,
+      "lng": 6.67876
+    }
+  }
+]
